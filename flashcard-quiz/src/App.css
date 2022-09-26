@@ -22,7 +22,7 @@ body {
     background-color: white;
     transform-style: preserve-3d;
     transition: 150ms;
-    height: 150px;
+    
    
     cursor: pointer;
     transform: perspective(1000px) rotateY(var(--rotate-y, 0))
